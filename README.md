@@ -2,8 +2,7 @@
 
 ## Hello Everyone! 😄
 
-### Hi there
-
+### I am Ramyashree Thirumalainambi and I am currently a high school student. 
 
 **bold**
 
