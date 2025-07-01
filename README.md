@@ -10,8 +10,9 @@ used to solve real-world problems. Whether it's writing code, analyzing data, or
 to learn more and challenge myself.**
 
 *CS Classes I have taken in high school:*
-
-**bold *bold & italics* **
+* AP Computer Science Principles
+* AP Computer Science A
+* Advanced Web Design
 
 Tech Stack
 * HTML
