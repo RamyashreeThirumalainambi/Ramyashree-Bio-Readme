@@ -19,6 +19,6 @@ Tech Stack
 * CSS
 * Javascript
 
-Priorities
+Goals & Priorities
 1. Learn to code
 2. Get an internship
