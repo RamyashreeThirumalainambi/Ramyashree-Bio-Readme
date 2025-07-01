@@ -9,7 +9,7 @@ I’m especially interested in programming, machine learning, and data science, 
 used to solve real-world problems. Whether it's writing code, analyzing data, or experimenting with algorithms, I’m always eager 
 to learn more and challenge myself.**
 
-*italics*
+*CS Classes I have taken in high school:*
 
 **bold *bold & italics* **
 
