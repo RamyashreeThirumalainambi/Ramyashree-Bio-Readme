@@ -5,6 +5,7 @@
 ### Welcome! Here's a little bit about me: 
 
 ![selfie](self.png)
+
 **I am Ramyashree Thirumalainambi, and I am currently a high school student with a strong passion for computer science. 
 I’m especially interested in programming, machine learning, and data science, and I enjoy exploring how these fields can be 
 used to solve real-world problems. Whether it's writing code, analyzing data, or experimenting with algorithms, I’m always eager 
